@@ -1,1 +1,3 @@
-# Data_Analytics_University_Laboratories
+# Data_Analytics
+
+This repository contains coursework for Data Analytics subject.
